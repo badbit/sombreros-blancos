@@ -193,13 +193,29 @@ clearpage
 \end_layout
 
 \begin_layout Section
-Introducción
+La historia de un recetario
 \end_layout
 
 \begin_layout Standard
-Mi mamá, desde hace unos cuantos años, estudia gastronomía.
- Con el tiempo ha acumulado una gran cantidad de recetas de cocina de todo
- tipo, tanto en papel como en la computadora, fotocopias y libros.
+Cada que voy a un restaurante con mi mamá, hace una mueca cuando le sirven
+ el plato.
+ Desde que estudia gastronomía, siempre encuentra algo mal con el servicio.
+ A veces el mesero toma el plato con el pulgar en la orilla, contaminando
+ la comida.
+ A veces sirvieron la comida manchando los bordes del plato.
+ En ocasiones es la decoración la que no es perfecta.
+ Siempre hay algo mal.
+\end_layout
+
+\begin_layout Standard
+Pero ya me acostumbré.
+ Supongo que es el riesgo de saber mucho sobre un tema: Uno se vuelve quisquillo
+so y le gustan las cosas bien hechas.
+\end_layout
+
+\begin_layout Standard
+Con el tiempo, mi mamá ha acumulado una gran cantidad de recetas de cocina
+ de todo tipo, tanto en papel como en la computadora, fotocopias y libros.
  Pronto se enfrentó con el problema de organizarlas y clasificarlas, perdía
  mucho tiempo al encontrar la adecuada.
  A veces requería recetas con un ingrediente específico, algunas para una
@@ -220,12 +236,12 @@ s y el procedimiento.
 \end_layout
 
 \begin_layout Standard
-Decidió entonces recurrir a un programador para que desarrollara un software
+Decidió entonces recurrir a un programador que desarrollara un software
  a su medida.
  Encontró una pequeña empresa ubicada precisamente a unas cuantas cuadras
  de mi casa.
- Hizo una cita y me pidió que asistiera en papel de “intérprete”.
- Mi mamá no es ninguna experta en computadoras, todo lo contrario.
+ Hizo una cita y me pidió que asistiera en papel de “intérprete” ya que
+ mi mamá no es ninguna experta en computadoras.
  Con mi presencia quería evitar que la engañaran y también expresar mejor
  sus necesidades al programador.
 \end_layout
@@ -234,20 +250,19 @@ Decidió entonces recurrir a un programador para que desarrollara un software
 Acudimos a la oficina y aparentemente se estaban mudando ya que todo se
  encontraba en desorden.
  Nos mencionó algunos de sus trabajos anteriores: Sistemas de cobro para
- algunos restaurantes, bases de datos sencillas y sistemas para pequeñas
- y medianas empresas.
- Le pregunté qué lenguaje de programación utiliza y me respondió que Visual
+ restaurantes, bases de datos sencillas y sistemas para pequeñas y medianas
+ empresas.
+ Pregunté el lenguaje de programación que manejaba y respondió que Visual
  Basic.
  Pregunté también que sucedería si mi mamá requería cambios al software
- en un futuro, y comentó que los podía hacer con un costo adicional.
+ en un futuro, y comentó que los podía implementar con un costo adicional.
 \end_layout
 
 \begin_layout Standard
 Estas circunstancias no me agradaron en absoluto.
  Aprendí Visual Basic cuando iba en la preparatoria.
- Es un lenguaje de programación creado por Microsoft, y se encuentra obsoleto
- actualmente.
- Además, como su nombre lo indica, es sumamente básico.
+ Es un lenguaje de programación creado por Microsoft y era obsoleto cuando
+ estudiaba ingeniería.
  Sirve bien para aplicaciones sencillas como la de mi mamá, pero es posible
  que con el tiempo, si las recetas llegan a más del millar, el programa
  no funcione tan bien como al principio.
@@ -257,11 +272,11 @@ Estas circunstancias no me agradaron en absoluto.
 
 \begin_layout Standard
 Pero lo que más me preocupaba es que dependeríamos de él toda la vida.
- Como mencioné, yo estoy familiarizado con Visual Basic, así que podría
- hacer cambios pequeños si así lo quisiera.
- Pero debido a que el programador conservaría el código del software en
- secreto, no podría.
- Tampoco a pedirle a alguien más que lo haga.
+ Estoy familiarizado con Visual Basic, podría hacer cambios pequeños si
+ lo quisiera.
+ Pero es imposible si el programador conserva el código del software en
+ secreto.
+ Tampoco podría a pedirle a alguien más que lo haga.
  ¿Qué tal si la pequeña empresa desaparece repentinamente? Nos quedaríamos
  botados con un software que no podemos actualizar y ni modificar.
  Este modelo es conocido como "software propietario" y es utilizado por
@@ -270,7 +285,7 @@ Pero lo que más me preocupaba es que dependeríamos de él toda la vida.
 \end_layout
 
 \begin_layout Standard
-Le comenté mis inquietudes a mi mamá, pero a ella le urgía el programa.
+Le comenté mis inquietudes a mi mamá, pero le urgía el programa.
  Yo no tenía tiempo de hacerlo por mi mismo, me encontraba estudiando la
  maestría que culminó con esta tesis, así que no pude alegar demasiado.
  El programador hizo un presupuesto por 600 dólares para desarrollar el
@@ -278,12 +293,11 @@ Le comenté mis inquietudes a mi mamá, pero a ella le urgía el programa.
  Mi madre aceptó.
  Todo quedó acordado y supuestamente se reportaría después de un mes para
  mostrar avances y solicitar el primer pago.
+ No supimos más de él.
 \end_layout
 
 \begin_layout Standard
-No hubo más señales de él, nunca volvió a reportarse.
- Con la necesidad encima, mi mamá me volvió a preguntar si conocía otra
- opción.
+Con la necesidad encima, mi mamá volvió a preguntarme si conocía otra opción.
  En esas fechas asistía a un grupo de programadores de software libre, haciendo
  observación participante para esta investigación.
  Se trata de una pequeña comunidad que se reúne cada mes con el objetivo
@@ -307,16 +321,16 @@ Pensé que dentro de los programadores del grupo, habría alguno interesado
 \end_layout
 
 \begin_layout Standard
-Finalmente alguien, ingeniero de software, soltó una idea: "¿Qué tal si
+Finalmente alguien un ingeniero de software soltó una idea: "¿Qué tal si
  tomamos ese proyecto como pet-project?".
  Es decir, tomar el programa de recetas como "mascota" del grupo.
  Esto implica desarrollarlo grupalmente, aprender todos durante el proceso
  y, una vez terminado, publicar el programa como software libre.
  La idea entusiasmó a todos los presentes.
- Una nueva oportunidad de aprender, pero también aportar a la sociedad:
+ Era una nueva oportunidad de aprender, pero también aportar a la sociedad:
  Cualquier persona con la misma necesidad utilizaría el software para resolver
  su problema sin costo alguno.
- Pensé inmediatamente en los compañeros de clase de mi mamá.
+ Recordé inmediatamente a los compañeros de clase de mi mamá.
 \end_layout
 
 \begin_layout Standard
@@ -325,7 +339,7 @@ Mientras manejaba de regreso a mi casa pensé en lo que acababa de presenciar
  libre.
  Cualquiera de los programadores de la reunión pudo tomar el trabajo y ganar
  600 dólares.
- En vez de ello optaron por ayudar a la comunidad, al aprendizaje del pequeño
+ En vez de ello optaron por ayudar a la comunidad: Al aprendizaje del pequeño
  grupo de programadores y también a las personas que tenían necesidad de
  ese programa.
 \end_layout
@@ -336,14 +350,14 @@ Este es el mundo de los
 hackers
 \emph default
  de sombrero blanco.
- Programadores entusiastas que creen en el trabajo comunitario y en compartir
- el conocimiento libremente.
- No hay códigos secretos y los desarrolladores de software pueden contactarse
- en cualquier momento para preguntar dudas y sugerir cambios.
+ Programadores entusiastas que creen en el trabajo comunitario y la libre
+ compartición del conocimiento.
+ No hay códigos secretos y los desarrolladores de software están disponibles
+ la mayor parte del tiempo preguntar dudas y sugerir cambios.
  Los orígenes de esta cultura se remontan hasta los años sesenta, en el
  seno de algunas universidades estadounidenses.
- Hasta la fecha existen numerosas prácticas y actividades que se desprenden
- de tales inicios.
+ Hasta la fecha existen numerosas prácticas y actividades que se surgieron
+ de ahí.
 \end_layout
 
 \begin_layout Standard
@@ -360,7 +374,7 @@ hacker
 \emph default
  para hablar de delincuentes informáticos.
  Durante el transcurso de esta investigación revisé los medios constantemente
- para ver lo que se dice de los 
+ para monitorear lo que se dice de los 
 \emph on
 hackers
 \emph default
@@ -384,15 +398,14 @@ a y pueden entrar ilegalmente a los sistemas de la CIA y la NASA.
 
 \begin_layout Standard
 No se puede negar que estos reportajes tienen un núcleo de verdad.
- Existen las intrusiones no autorizadas, hay delitos informáticos y a veces
- hay jóvenes que se dedican a la piratería de software y que denominan "hackers".
+ Existen las intrusiones no autorizadas, hay delitos informáticos y hay
+ jóvenes que se dedican a la piratería de software y se autonombran "hackers".
  Todo eso existe, pero siempre ha habido una línea marcada entre los 
 \emph on
 hackers
 \emph default
  de sombrero blanco y los de sombrero negro, aquellos interesados en la
  exploración ilegal y en la piratería.
- 
 \end_layout
 
 \begin_layout Standard
@@ -629,7 +642,7 @@ A algunas personas les gustó la idea, pero uno en particular, Fernando Michel,
  aportar a la comunidad".
  El programador que soltó la idea original se desconcertó visiblemente.
  Nos observaba como recién llegado a otro planeta.
- No lo he visto mas en las reuniones.
+ Ya no regresó a las reuniones.
 \end_layout
 
 \begin_layout Standard
@@ -1658,7 +1671,7 @@ clearpage
 \end_layout
 
 \begin_layout Section
-Capítulo I - Hackstory
+Capítulo I - Sombreros blancos, sombreros negros
 \end_layout
 
 \begin_layout Standard
@@ -3341,7 +3354,7 @@ key "Taylor1999"
  de Paul A.
  Taylor.
  Se trata de los resultados de un estudio realizado en 1992, con capítulos
- adicionales compuestos por documentos poderiores.
+ adicionales compuestos por documentos posteriores.
  Taylor afirma que existe una amplia brecha cultural entre los 
 \emph on
 hackers
@@ -7509,7 +7522,7 @@ clearpage
 \end_layout
 
 \begin_layout Section
-Capítulo II - Teoría y metodología
+Capítulo II - La receta
 \end_layout
 
 \begin_layout Standard
@@ -13258,7 +13271,7 @@ open source
 
 \begin_layout Standard
 \begin_inset Note Comment
-status collapsed
+status open
 
 \begin_layout Plain Layout
 Uno de los lenguajes de los cuales más se burla Carlos es Java
@@ -13825,68 +13838,6 @@ Free and Open Source software que vende
 \end_layout
 
 \begin_layout Quote
-Tu no puedes manejar servidores que no tengan Linux
-\begin_inset Index idx
-status collapsed
-
-\begin_layout Plain Layout
-GNU/Linux
-\end_layout
-
-\end_inset
-
- o software libre, pues, o 
-\emph on
-open source
-\emph default
-.
- La gente que hace servidores con Windows
-\begin_inset Index idx
-status collapsed
-
-\begin_layout Plain Layout
-Microsoft Windows
-\end_layout
-
-\end_inset
-
- es: Uno, porque está bien pendeja, simplemente le gusta esa decisión, o
- porque tiene un contrato con Microsoft
-\begin_inset Index idx
-status open
-
-\begin_layout Plain Layout
-Microsoft
-\end_layout
-
-\end_inset
-
-.
- O porque es una pinchi generación anciana, pues.
- [...] Que no tiene nada de malo, cada quién puede elegir con quién trabajar
- y todo eso, pues, pero yo digo que es muy pendeja en el sentido de que
- todos hemos sufrido a base de Windows
-\begin_inset Index idx
-status collapsed
-
-\begin_layout Plain Layout
-Windows
-\end_layout
-
-\end_inset
-
-, pues.
-\end_layout
-
-\begin_layout Standard
-Puedo identificarme un poco con este comentario de Carlos.
- Cuando aprendí Linux y conocí la manera de trabajar en este sistema operativo,
- lamenté no haberlo aprendido antes.
- Sobre todo por cuestiones técnicas, pero Carlos no sólo lo asocia con cuestione
-s técnicas, también con cuestiones del desarrollo del país.
-\end_layout
-
-\begin_layout Quote
 Hay un chorro de asociaciones, hay países que se han atrasado, como México,
  gracias a Microsoft
 \begin_inset Index idx
@@ -14229,16 +14180,8 @@ Por último, casi para concluir nuestra última entrevista, Carlos me comentó
 Es que casi siempre cuando digo estas cosas todos me ven así como que: "Ah,
  pinchi mamón y lo que quieras".
  Pero no es mamón, pues es que si no le exiges, pues, ¿cómo quieres que
- se de la excelencia? Es por eso que Brasil es una chingonería, pues, porque
- en Brasil se tiran mierda entre ellos, o sea.
- Entre los brasileños es de: "Este pedazo de software es basura".
- Y van con el gobierno y les dicen y los del gobierno: "Ok, repáralo" y
- ahí está.
- Por eso, desde que entró Lulla a Brasil se cambió toda la infraestructura,
- pues, porque él mismo dijo: Yo no puedo hacer nada con la computadora,
- pues y eso que yo no sé nada de computadoras.
- Tonces, es eso, pues, es esa crítica a la escena que hace falta, pero en
- el 
+ se de la excelencia? [...] Tonces, es eso, pues, es esa crítica a la escena
+ que hace falta, pero en el 
 \emph on
 black hat
 \emph default
@@ -14249,23 +14192,7 @@ white hats
 \emph default
  aquí en México, o sea, ¿cómo ponerlo? Son críticas constructivas, pero
  porque se esperan, pues.
- Yo espero que a mí también me critiquen, yo sería feliz de que [mi jefe]
- me dijera algo de mi código.
- O sea, y eso es lo que me gustó de Noisebridge
-\begin_inset Index idx
-status collapsed
-
-\begin_layout Plain Layout
-Noisebridge
-\end_layout
-
-\end_inset
-
-, en Noisebridge, el primer día que llegue: "Ah, ¡cómo eres güey! Pudiste
- haberlo hecho de esta forma".
- Y sí es cierto, y aprendí, o sea, aprendí de eso.
- No me engreí y: "Ah, te voy a partir la madre".
- O sea, no.
+ 
 \end_layout
 
 \begin_layout Standard
@@ -17541,17 +17468,12 @@ No sé cuanto quede ahí, porque yo voy a estar buscando más y más y más y
  En el trabajo se ha manejado mucho que si tienes buenos conectes tienes
  un mejor empleo, güey.
  Eso que digo: [...] Esa madre no me interesa, güey.
- [...] La neta, güey, si fuera persona lame huevos ya hubiera dado las nalgas
- y a la verga, me subieran a un pinche puestazo.
+ [...] La neta, güey, si fuera persona lame huevos [...] me subieran a un pinche
+ puestazo.
  Neta, güey.
  Pero yo no soy así, güey, no me interesa dar las nalgas por un puesto chilo,
  güey.
- No soy así, güey.
- No me interesa andar lamiendo los huevos a alguien.
- ¡No me interesa, güey! Hay gente que lo hace, güey, y no me interesa a
- mí.
- No me interesa eso, la neta.
- No tengo ese interés.
+ [...] No tengo ese interés.
  A mi me interesa más el dejar algo, la comunidad...
 \end_layout
 
@@ -21024,26 +20946,6 @@ No lo sé, sólo pidieron un desarmador.
 \end_layout
 
 \begin_layout Standard
-Esa afirmación, que la gente podía hacer muchas cosas positivas sin reglas
- me sorprendió bastante.
- Le pregunté si pensaba que esa dinámica podría transportarse a otras áreas
- de la sociedad.
-\end_layout
-
-\begin_layout Quote
-Posiblemente.
- Noisebridge ha construido un ejemplo positivo y un ejemplo negativo en
- ese espacio.
- [...] Estábamos intentando al principio establecer qué reglas tener, qué permitire
-mos que la gente haga.
- Siempre hubo un argumento muy fuerte a favor de quitarnos del camino, dejar
- que la gente haga lo que quiera y dejar que te sorprendan.
- Y eso fue educativo para mi, verlo suceder y verlo funcionar.
- Pero al mismo tiempo ves que gente hace cosas totalmente inútiles y que
- no coinciden con mis propias metas, por ejemplo.
-\end_layout
-
-\begin_layout Standard
 Recientemente en Noisebridge
 \begin_inset Index idx
 status collapsed
@@ -21054,9 +20956,9 @@ Noisebridge
 
 \end_inset
 
- ha surgido una discusión con respecto a la apertura.
- ¿Son demasiado abiertos? ¿Deberían restringir el acceso al lugar? Esto
- debido a varios incidentes que se han presentado, incluyendo pequeños robos.
+ surgió una discusión con respecto a la apertura y el acceso.
+ ¿Son demasiado abiertos? ¿Deberían restringir el acceso al lugar? La discusión
+ se inició debido a incidentes que incluyen pequeños robos y confrontaciones.
  El cuatro de febrero de 2012 por la madrugada, un individuo entró y amenazó
  a los presentes.
  Alegando que tenía una pistola debajo de la sudadera exigió a todos que
@@ -21066,7 +20968,7 @@ Noisebridge
 \end_layout
 
 \begin_layout Standard
-De manera similar, alrededor de las mismas fechas, el 
+De manera similar, por las mismas fechas, el 
 \emph on
 hackerspace
 \emph default
@@ -21081,8 +20983,7 @@ Occupy San Francisco
 \end_inset
 
 Occupy San Francisco.
- Este es un movimiento que, de manera general, protesta en contra de la
- desigualdad económica y social.
+ Este movimiento protesta en contra de la desigualdad económica y social.
  Una de las formas de protesta es acampar frente a edificios de importantes
  instituciones económicas como la reserva federal.
  En este contexto surgió el movimiento Hackupy
@@ -21652,7 +21553,8 @@ Noisebridge
 
 \end_inset
 
- intentaron crear sus propios nodos y buscaron colaborar con el proyecto.
+ habían intentado crear sus propios nodos y mejor colaboraron con el nuevo
+ proyecto.
  No todos tenían las habilidades técnicas o el tiempo para mantener el sistema
  funcionando.
  Había otros 
@@ -22151,60 +22053,965 @@ clearpage
 \end_layout
 
 \begin_layout Section
-Conclusiones provisionales
+Un mundo mejor
 \end_layout
 
 \begin_layout Standard
-Por supuesto que este avance se trata únicamente de un trabajo en construcción,
- y existen muchas cosas por mejorar y otras por finalizar.
- A lo largo de esta entrega me propuse contextualizar el fenómeno de los
+¿Qué sucedió con el recetario de mi mamá? En cuanto le comenté la idea de
+ los programadores de mxlOpenSource, el convertir su recetario en software
+ libre, se entusiasmó y aprobó la idea.
+ Ellos pusieron manos a la obra, buscando en Internet otros programas similares,
+ para encontrar alguno que se ajustara exactamente a sus necesidades.
+ Pronto encontraron un software llamado "El Puchero" que contenía casi todas
+ las características y era gratis, mas no libre.
+ La sugerencia de los programadores fue que mi mamá revisara el software
+ e hiciera anotaciones sobre lo que siente que falta.
+ También lo que le gustaría que fuera diferente.
+ Todas esas notas servirán de guía para desarrollar un nuevo recetario que
+ se ajuste precisamente a lo que ella necesita.
+\end_layout
+
+\begin_layout Standard
+No sólo ella recibió ayuda.
+ Durante mi asistencia al grupo yo llevaba mis propias dudas e inquietudas
+ y muchas veces recibía respuestas.
+ En mis visitas al campo, en reuniones, en foros, listas de correo y salas
+ de charla, me di cuenta de que cada vez más recurría a "la comunidad" en
+ busca de ayuda.
+ Este concepto fue difícil de comprender para mí, me tardé muchos meses
+ en ir comprendiendo a qué se refieren los 
+\emph on
+hackers
+\emph default
+ cuando hablan de comunidad.
+ A pesar de haber leído libros al respecto, a pesar de haberlo escuchado
+ muchas veces antes, no lo comprendí hasta que formé parte de ella.
+\end_layout
+
+\begin_layout Standard
+En diferentes momentos de entrevistas y encuentros los hackers se apasionaban
+ y lanzaban largos discursos sobre cómo deberían ser las cosas.
+ Muchas veces fue al final de las entrevistas, cuando ya les estaba dando
+ las gracias por haberme prestado algo de su tiempo.
+ En una ocasión, me encontraba ya en la madrugada con Miguel Venegas dentro
+ de su automóvil, en el estacionamiento de un centro comercial.
+ Yo me estaba muriendo del sueño, había sido una semana verdaderamente agotadora
+, y le agradecí la entrevista.
+ Él me exhortó a mantener la grabadora encendida, y continuó platicando
+ acerca de su trabajo y lo que le molesta de él.
+ No fue sino hasta el día siguiente, cuando volvía escuchar la grabación,
+ que me di cuenta de la información tan importante que me había dado.
+\end_layout
+
+\begin_layout Standard
+Fue casi hasta el final de esta investigación cuando entendí lo que los
  
 \emph on
 hackers
 \emph default
- en el marco de la sociología de la ciencia y la tecnología, para mostrar
- cómo el uso de tecnología puede analizarse como cualquier otra actividad
- del ser humano.
- La etnografía permitió la descripción de la prácticas tecnológicas realizada
- por los informantes con su contexto a través del discurso y observación.
+ me estaban diciendo.
+ A través de las entrevistas y la observación participante se me fue revelando
+ un mundo.
+ Un mundo que todavía no existe de manera física, pero que se encuentra
+ en la mente de los 
+\emph on
+hackers
+\emph default
+ entrevistados y los guía en su trabajo diario.
+ Su trabajo, sus actividades, la fuerza que los motiva a emprender muchos
+ de sus proyectos es la esperanza de un mundo mejor.
+ Intentaré, en base a lo que me dijeron y lo que pude observar, describir
+ ese mundo.
+\end_layout
+
+\begin_layout Subsection
+Un mundo lleno de objetos interesantes
 \end_layout
 
 \begin_layout Standard
-En el caso de Carlos, pudimos ver cómo sus actividades de programación poseen
- las características de la práctica social: Requieren conocimientos compartidos,
- rutinización, movimientos del cuerpo (especialmente si pensamos en vim
- y su teclado Happy hacking), objetos (hardware y software), y existe un
- discurso que guía las acciones.
- Puede encontrarse en los libros citados por él o en las recomendaciones
- que él nos hacía, frecuentemente citadas de otra fuente.
+De niños los tres 
+\emph on
+hackers
+\emph default
+ se desconcertaron ante la presencia de un objeto extraño: Una computadora
+ personal.
+ La curiosidad los atrajo y su primeras exploraciones fueron juguetonas.
+ Aprendieron sobre la máquina por diversión, se atrevieron abrirla, cuestionarla
+, programarla.
+ Miguel desarmaba sus computadoras para saber qué había adentro, como muchos
+ niños desarman sus carritos de control remoto.
+ Carlos inició con los emuladores y videojuegos de consola.
+ Andy programó algunas bromas y juegos para la Apple IIe de su papá.
+ Con los años esta aproximación se convertiría en un interés mucho más serio,
+ hasta la fecha continúan con una relación similar con estos artefactos.
+ Buscan explorarlos y conocerlos por dentro y por fuera.
 \end_layout
 
 \begin_layout Standard
-Con Miguel la historia es similar, pero es más notable que es capaz de cuestiona
-r la tecnología e intentar modificarla.
- Desde sus intentos por mejorar las interfases gráficas del software libre,
- hasta los intentos por modificar la diadema de un juguete para que se ajuste
- a sus propias necesidades.
- No sólo eso, también intenta favorecer el modelo comunitario a través de
- sus cursos, talleres y de las actividades en las cuales se involucra, como
- el libro de Arduino y sus ideas sobre lo que debería ser la educación.
+Andy comenta que cuando era niño se encontró un tutorial de BASIC de su
+ papá: "Era un tutorial engargolado de programación en BASIC para minicomputador
+as...
+ para microcomputadoras.
+ Y probablemente leí ese libro una docena, o veinte o treinta veces cuando
+ tenía siete u ocho años porque era muy interesante para mi".
+ Algo similar sucedió con la Commodore 64 para Carlos y Miguel.
+ Los artefactos tecnológicos eran interesantes por sí mismos.
 \end_layout
 
 \begin_layout Standard
-Por último, Andy nos muestra claramente cómo funciona la ética en la utilización
- de software.
- Desde su rechazo por la piratería, pasando por sus diferencias con profesores,
- Andy tiene consideraciones éticas sobre la tecnología constantemente, las
- cuales se entremezclan con su formación religiosa y su ética laboral.
+Durante la universidad, Andy intentaba hacer raytracing de manera distribuida
+ en las computadoras del laboratorio.
+ No era tarea de una asignatura, era un proyecto iniciado por sus inquietudes
+ personales.
+ Sin embargo, no tenía la capacidad de utilizar las herramientas profesionales
+ disponibles para ello, así que las creó: "De hecho escribí mi propio script
+ de comunicaciones, donde todos los nodos tenían directorios NFS montados,
+ y yo quería dos nodos trabajando en el mismo problema".
 \end_layout
 
 \begin_layout Standard
-Algo que parece común a los casos, es que todos tienen aprecio particular
- por algunos valores como la iniciativa, la creatividad y la motivación
- por el trabajo como un fin en si mismo.
- Las dinámicas en las que ellos participan parecen requerir personas con
- esas características, por lo que personas que no las tienen entorpecen
- la dinámica.
+Posteriormente entró a trabajar para Cray, haciendo Raytracing en sistemas
+ distribuidos.
+ Le pregunté si el trabajo que había iniciado en la universidad fue realizado
+ pensando en trabajar para Cray.
+ Me respondió que no, fue simplemente una coincidencia.
+ El trabajo que realizó por curiosidad le sirvió posteriormente para obtener
+ ese empleo.
+\end_layout
+
+\begin_layout Quote
+Si, todo se relacionó, si, todo encajó muy bien.
+ El hecho de que trabajé en programación distribuida en IBM y más en las
+ clases universitarias y que hice procesamiento paralelo con computadoras
+ en red para raytracing y DES significaba que era obvio para mi ir a programar
+ en red para Cray.
+ Y lo hicimos.
+ En eso trabajé cuando estuve ahí.
+\end_layout
+
+\begin_layout Standard
+Lo mismo sucede con Carlos, quien aprendió muchas tecnologías por curiosidad
+ y lo pudo utilizar para conseguir su primer empleo en un cibercafé y posteriorm
+ente en los diferentes lugares donde se ha desempeñado.
+\end_layout
+
+\begin_layout Standard
+A lo que voy con esto es que su pasión por los objetos es la prioridad.
+ Si han conseguido empleos gracias a ello ha sido sólo una feliz coincidencia.
+\end_layout
+
+\begin_layout Standard
+Pero no sólo son simples herramientas, estos objetos son interesantes por
+ sí mismos.
+\end_layout
+
+\begin_layout Standard
+La herramienta adecuada para cada trabajo
+\end_layout
+
+\begin_layout Standard
+Miguel:
+\end_layout
+
+\begin_layout Standard
+Entonces creo que lo que me paró mucho fue encontrar una aplicación que
+ pudiera hacer los highlights específicos.
+ Por que empecé a redactar un tutorial, te digo que por medio de Adobe Ilustrado
+r.
+ Pero empecé a producir, y ya iba en la pagina 20, un libro al rededor de
+ 100 hojas, entonces yo de repente empecé a cuestionarme: Oye, ¿qué va a
+ pasar si a mí ahorita me atropellan y les doy el PDF a ellos? No puedes
+ mantener el mismo estándar, pues.
+\end_layout
+
+\begin_layout Standard
+E: O sea, ¿cómo? ¿Licencia cómo?
+\end_layout
+
+\begin_layout Standard
+I: Que fuera prohibido, que tuviera prohibición, ¿no? Suponiendo, el Adobe
+ Ilustrador no lo puedes instalar en Linux, tienes que tener Wine, ¿no?
+ Y además es privativo.
+ Entonces era ahí como que, pum, nos detenía, ¿no?
+\end_layout
+
+\begin_layout Standard
+[...]
+\end_layout
+
+\begin_layout Standard
+Pero decíamos, es que esa madre no es para eso, pues.
+ Entonces gracias a eso yo descubrí que el Adobe Ilustrador, el Corel no
+ te sirven para hacer esquemas de libros de programación.
+\end_layout
+
+\begin_layout Standard
+Carlos:
+\end_layout
+
+\begin_layout Quote
+Porque este güey son el tipo de empresa que me gusta, no es un startup y
+ no son tan modernos, pero para cada problema o cada trabajo que consiguen,
+ utilizan una aplicación diferente, pues.
+ En el sentido de que si es algo de ofimática, utilizan mono.
+ [..] Que es, o sea, el .NET.
+ Que es como el...
+ O sea, el Visual Basic ya no existe, pero existe el .NET.
+ [...] Tonces, si ocupan al web, así, usan PHP y Codeigniter.
+\end_layout
+
+\begin_layout Standard
+Carlos:
+\end_layout
+
+\begin_layout Quote
+Tonces, tú ya tienes...
+ Las recetas son objetos, pues.
+ Entonces tú ya tienes cómo crear una forma, pues.
+ No tienes que escribir todo el código para validar una forma, no tienes
+ que escribir todo el código para accesar a una base de datos, no tienes
+ que escribir nada de eso, pues.
+ Ya está hecho todo eso.
+ Y tú nomás metes un poquito de configuración y ya, ya puedes empezar a
+ trabajar realmente en el problema, no en las salidas o cosas así.
+\end_layout
+
+\begin_layout Standard
+Estos hackers tienen un interés intrínseco por los artefactos tecnológicos.
+ Favoreceran aquellos que les permitan explorar, modificar y aprender mejor.
+ Su conocimiento y experiencia con su uso les proporciona experiencia que
+ les ayuda a conseguir empleo, ganarse la vida y trabajar en sus propios
+ fines.
+\end_layout
+
+\begin_layout Subsection
+Un mundo más libre
+\end_layout
+
+\begin_layout Standard
+No basta con que los objetos sean interesantes y les proporcionen conocimiento,
+ también deben ser libres.
+ Los objetos libres, tanto de software como de hardware, facilitan la dinámica
+ de trabajo de los 
+\emph on
+hackers
+\emph default
+.
+ Ellos buscan la libertad de compartirlos, la libertad de modificarlos,
+ la libertad de analizar detalladamente su funcionamiento.
+\end_layout
+
+\begin_layout Standard
+Esto no se deben comprender únicamente como la libertad de utilizar les
+ herramientas.
+ Ellos creen que la tecnología afecta la sociedad y que los objetos que
+ restringen la libertad de sus usuarios no crean un mundo mejor, todo lo
+ contrario.
+ Andy me proporcionó dos ejemplos muy buenos.
+ 
+\end_layout
+
+\begin_layout Standard
+El primero tiene que ver con una tecnología llamada DRM.
+ Estas siglas significan 
+\emph on
+Digital Restriction Manager.
+
+\emph default
+ Es un sistema de restricciones digitales para evitar la piratería, generalmente
+ se utiliza para libros, música y películas.
+ Cuando un usuario compra un libro, por ejemplo, es firmado digitalmente
+ por el proveedor.
+ Para acceder a él es necesaria una clave que proporciona el fabricante.
+ Cada vez que necesita acceso, este sistema de conecta a Internet y verifica
+ que en efecto el usuario está autorizado para ver el contenido.
+\end_layout
+
+\begin_layout Quote
+No trabajé en un producto con DRM, pero trabajé para una compañía que tenía
+ una línea de productos con DRM, y mientras trabajé ahí, decidieron que
+ ya no era un negocio que querían continuar.
+ [...] No sacaron mucho dinero de él como esperaban, así que decidieron cerrarlo.
+ De hecho apagaron los...
+ Dejaron los servidores funcionando por seis meses o nueve meses o algo
+ así, pero al final simplemente los apagaron y los clientes que todavía
+ usaban ese video perdieron acceso al video que habían comprado porque la
+ compañía apagó los servidores DRM.
+ [...] Eso es bastante malvado.
+\end_layout
+
+\begin_layout Standard
+Yo le pregunté cómo conciliaba su ética personal con sus actividades laborales.
+ Muchas veces en los empleos se requiere el involucrarse en actividades
+ que no coinciden del todo con nuestras creencias personales.
+\end_layout
+
+\begin_layout Quote
+He evitado los trabajos en donde me pidan trabajar en cosas a las que me
+ opongo firmemente.
+ Muchas veces he trabajado para compañías que hacen otras cosas, que no
+ en las que trabajo directamente, sobre las cuales no concuerdo.
+ Y generalmente, incluso cuando no es mi trabajo directamente, me expreso
+ diciendo: "¡Hey! ¡Debemos hacer lo correcto con respecto a esto!".
+ A veces eso ha traído beneficios.
+\end_layout
+
+\begin_layout Standard
+Su segunda anécdota tiene que ver con la restricción de derechos de acceso.
+ Las películas en DVD y BluRay están cifradas y sólo pueden reproducirse
+ en dispositivos de alguna región determinada.
+ Norteamérica, por ejemplo, es la región 1, y latinoamérica la región 4.
+ De esta forma, un disco comprado en México, por ejemplo no puede ser reproducid
+o en Estados Unidos y viceversa.
+\end_layout
+
+\begin_layout Quote
+Me entrevistó una compañía hace algunos años, y parecía que tenían problemas
+ interesantes para resolver pero el producto en el que trabajaban fue algo
+ que encontré realmente...
+ realmente perturbador.
+ Probablemente legal, pero no era una tecnología positiva para los usuarios,
+ tampoco pensé que era buena para la gente a la que se la vendían.
+ Ni siquiera para la industria en general.
+\end_layout
+
+\begin_layout Standard
+Me explicó que era un sistema DRM para discos BluRay que involucraban una
+ comprobación en requería estar conectado a Internet.
+ Era una medida de control demasiado restrictiva, desde el punto de vista
+ de Andy.
+ Durante la entrevista, el empleador explicó la tecnología para ver si Andy
+ tenía la habilidad de resolver los problemas.
+ 
+\end_layout
+
+\begin_layout Quote
+Empezó a explicar lo que era, y después de diez minutos dije: "¿Sabes? Gracias
+ por hablar conmigo, pero es necesario continuar esta conversación por que
+ no hay manera de que yo trabaje para ti.
+ No puedo trabajar en ese producto y creo que tu tampoco debes hacerlo".
+ Y se quedó como: "Ok, gracias por ser honesto".
+ [...] Me imaginé que tenía sus detalles, pero yo pensé: "No, ese no es un
+ sistema en el cual estoy interesado en absoluto, no puedes pagarme lo suficient
+e para trabajar en ello".
+ Así que hay gente haciendo cosas realmente estúpidas en el mundo, y trato
+ de trabajar con ellas lo menos posible.
+\end_layout
+
+\begin_layout Standard
+La moraleja es que Andy no trabajará en algo que limite la libertad de las
+ personas.
+ Aunque estas anécdotas son muy reveladoras, la libertad es una constante
+ en el discurso de los tres 
+\emph on
+hackers
+\emph default
+.
+ Miguel me comentaba su frustración ante el incidente del Pantone libre
+ y cómo las corporaciones intentan controlar la información: "Más que todo
+ cuando empiezas...
+ a...
+ a ver que hay un control de información, que la gente ya no puede escribir,
+ que la gente es espiada, la gente te sigue tus pasos entonces tú dices
+ ¿qué pedo, güey? O sea, la información es libre".
+\end_layout
+
+\begin_layout Standard
+Esta fue también una de las quejas que hizo hacia la escuela.
+ Según Miguel, el hecho de que a los estudiantes se les enseñe en clase
+ paquetería de software comercial los hace depender de corporaciones.
+ Por ejemplo, a él le enseñaron diseño gráfico en Adobe Ilustrator, que
+ es software comercial, y él deseaba utilizar Inkscape, que es una alternativa
+ de software libre:
+\end_layout
+
+\begin_layout Quote
+En las clases nos dijeron: "Vas a usar Adobe Ilustrador" "¿Por qué? Yo quiero
+ usar el Inkscape".
+ "No, es que no sabemos usarlo".
+ O sea, como que en las escuelas te cierran, te hacen como en un cubito
+ con paredes, y como que tu vas en el centro y que tú te quieres safar tantito:
+ "¡Eh, eh! ¡Véngase pa' ca!" Tonces como que tú dices, "Ey, aguanta".
+ No te dejan.
+ De alguna forma, me gusta hacer esto, güey.
+ De repente la gente se desesperaba.
+ Entonces yo creo que los alumnos ocupan salirse de esto.
+\end_layout
+
+\begin_layout Standard
+Para Miguel el uso de un software no se limita únicamente a considerar la
+ tecnología involucrada, o las características del mismo.
+ Es una cuestión de libertad, de eliminar la dependencia de las corporaciones
+ y el "imperialismo" como él dice.
+ De dejar que los individuos puedan resolver sus propios problemas y trabajar
+ en comunidad, como explicaré a detalle más adelante.
+\end_layout
+
+\begin_layout Standard
+Carlos Iván tiene puntos de vista similares.
+ Se quejaba de que en su trabajo "Godínez" no le daban suficiente libertad
+ de resolver los problemas como él quería.
+ Se quejaba de que muchas órdenes le llegaban de arriba y se tenía que apegar
+ a ellas, incluso cuando él consideraba que había mejores opciones.
+ Se quejaba de las empresas que sólo buscaban sacar dinero y se olvidaban
+ del individuo.
+ Yo le comenté que en toda empresa comercial se busca dinero, y él respondió:
+\end_layout
+
+\begin_layout Quote
+Pero hay maneras de conseguirlo y hay maneras de tratar de conseguirlo y
+ hay maneras de crear un producto.
+ Tonces, como te has dado cuenta en los 
+\emph on
+startups
+\emph default
+ les importa más los programadores.
+ O sea, como git...
+ que diga, github.
+ En github no importa si no vas a la oficina.
+ [...] Tonces, en github lo que hacen es: Si puedes ir a la oficina, tienes
+ que ir a la oficina a hacer tiempo, pero realmente prefieren que estés
+ creativo y que estés feliz y así sacan más producción.
+ [...] Tonces las horas no son mediciones de productos exitosos, pues.
+ Y más en esto de tecnología.
+ En esto de tecnología derepente a alguien se le puede prender el foco y
+ hacer algo bien exagerado en unas horas.
+\end_layout
+
+\begin_layout Standard
+Para Carlos, los trabajos que quitan las restricciones y dejan al individuo
+ tomar sus propias decisiones son mejores.
+ Permiten que el mismo empleado esté más feliz e incluso pueda sorprender
+ con más de lo que se le había pedido.
+\end_layout
+
+\begin_layout Quote
+Y lo bueno de eso es como...
+ puedes hacer todavía cosas de más, y se te...
+ se te, ¿cómo se dice? Se te recompensa, pues.
+ Te dicen, está bien.
+ No con el dinero, pero te...
+ reconocen, pues, que...
+ que te fuiste más allá de lo que debiste haber hecho y dice: Y si es útil,
+ está bien, si no, también, o sea, qué fregón por que te da una motivación
+ en el trabajo.
+ Tonces, eso es tratar a alguien como un ser humano, la verdad.
+\end_layout
+
+\begin_layout Standard
+Estos son sólo algunos de muchos ejemplos, que también se han visto a lo
+ largo de la tesis.
+ Estos hackers creen en la libertad, la capacidad de autodeterminación del
+ individuo.
+ Saben que la libertad, por sí misma, no mejora el mundo, pero creen que
+ las restricciones impiden encaminarse esa dirección.
+ Dadas dos alternativas, los 
+\emph on
+hackers
+\emph default
+ escogerán la más libre.
+\end_layout
+
+\begin_layout Subsection
+Un mundo comunitario
+\end_layout
+
+\begin_layout Standard
+Comunidad es una palabra que apareció una y otra vez en el discurso de los
+ 
+\emph on
+hackers
+\emph default
+.
+ Ellos prefieren el trabajo comunitario, organizaciones no autoritarias
+ en donde todos tengan la posibilidad de aportar al bien común.
+ Normalmente se refieren al mundo del software pero, como se ilustró con
+ el ejemplo de Noisebridge, también puede operar en otros ámbitos.
+\end_layout
+
+\begin_layout Standard
+Cuando Miguel Eduardo me hablaba de NorteLab, me comentaba: "El proyecto
+ es un colectivo donde cualquier persona puede unir su granito de arena,
+ ¿no?".
+ Esta es la idea central detrás de los proyectos colectivos que él inicia
+ y en los cuales participa.
+ Tanto en la distribución Linux Tuquito, como en ELUG, como en el libro
+ libre de Arduino, como usuario Pure Data, Miguel forma parte de varias
+ comunidades autogestionadas que no dependen de un poder centralizado.
+\end_layout
+
+\begin_layout Standard
+Para Miguel, la comunidad también sirve para liberar a la gente de la dependenci
+a.
+ Logra que ellos tengan la capacidad de crear las cosas por sí mismos y
+ resolver sus propios problemas tecnológicos.
+\end_layout
+
+\begin_layout Quote
+Exactamente, y que no sean inútiles, a fin de cuentas.
+ Que la gente, a fin de cuentas, no se ponga en la parte de decir: "Ay,
+ es que no puedo porque no sé electrónica".
+ No, aquí te podemos ayudar, somos una comunidad y todos podemos aprender.
+ Cada quién es una eminencia en lo que sabe, ¿no? Es como que aprendemos
+ de todos, a fin de cuentas.
+\end_layout
+
+\begin_layout Standard
+En la comunidad, entonces, se comparte el conocimiento bajo la idea ya mencionad
+a de que el conocimiento es libre.
+ Incluso cuando yo usaba el término "grupo de programadores", Miguel me
+ corregía diciendo: "Es una comunidad".
+ Este punto es central para los tres 
+\emph on
+hackers
+\emph default
+.
+\end_layout
+
+\begin_layout Standard
+Este modelo es incompatible en comparación del orden social en el que se
+ encuentran insertos.
+ Las instituciones sociales normalmente son jerárquicas y poseen una autoridad
+ central.
+ En el caso de Noisebridge, cuando la comunidad intentó registrarse como
+ una organización no lucrativa se encontraron con que por cuestiones legales,
+ la organización debía tener un presidente.
+ Ellos no querían una figura de autoridad como esa, pero tuvieron que designar
+ todo un comité para cumplir con el papeleo.
+ Andy me comentó: "Todos sabíamos que necesitaríamos un tesorero.
+ Alguien que estaría a cargo del dinero, que se asegurara de que pagáramos
+ la renta.
+ Cosas así.
+ Realmente queríamos evitar las dinámicas de poder por tener presidente
+ y así".
+\end_layout
+
+\begin_layout Standard
+Noisetor, el otro proyecto de Andy, también funciona gracias a una comunidad.
+ Algunas personas sólo donan dinero y otras su tiempo.
+ Algunas tienen mayor conocimiento, otras menos, pero si desean aportar
+ y les interesa el proyecto, pueden encontrar algún problema que pueden
+ resolver.
+\end_layout
+
+\begin_layout Standard
+Un ejemplo revelador es cuando Andy dejó de usar BSD como sistema operativo
+ en su laptop.
+ En ese tiempo BSD no ofrecía mucho soporte para hardware, así que había
+ algunos dispositivos que no funcionaban.
+ Investigando, descubrió que no funcionaban debido a una carencia en BSD.
+ Intentó resolver el problema por si mismo, pero pronto descubrió que era
+ demasiado complejo para sus habilidades en la época.
+ Descubrió también que la comunidad de BSD ya había intentando resolver
+ el problema varias veces, sin éxito.
+ Como no se veía que el problema se resolvería rápido, buscó alternativas.
+\end_layout
+
+\begin_layout Quote
+Así que el sistema Debian era mucho más interesante para mí, y también el
+ hecho de que Debian era un proyecto desarrollado por comunidad en vez de
+ un proyecto corporativo
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Aunque todas las versiones de Linux son software libre, algunas son desarrollada
+s por una coporación con fines de lucro.
+ Este es el caso de Red Hat, por ejemplo.
+\end_layout
+
+\end_inset
+
+ fue llamativo también.
+ Así que terminé cambiando mi máquina, mi laptop principal a Debian en algún
+ punto.
+\end_layout
+
+\begin_layout Standard
+Cuando una comunidad no dio respuesta a sus necesidades, Andy migró a otra.
+ Dice que se mantiene enterado de lo que sucede en la comunidad de BSD,
+ pero concede que Linux ya se encuentra mucho más adelantado tecnológicamente:
+ 
+\end_layout
+
+\begin_layout Quote
+Puedo resolver la mayor parte de mis problemas usando Linux y...
+ No soy un gran fan de las monoculturas, me gusta la diversidad en el software,
+ creo que es bueno para la sociedad y para la comunidad técnica que haya
+ mucha polinización y diferentes lugares para que surjan ideas.
+\end_layout
+
+\begin_layout Standard
+Carlos Iván también es parte de varias comunidades.
+ Para él, las comunidades de software libre son oportunidades perfectas
+ para compartir el conocimiento, aprender de los errores y aciertos de los
+ demás.
+ Le pregunté por qué migró a software libre cuando era tan joven, me respondió:
+\end_layout
+
+\begin_layout Quote
+Pues básicamente por el hecho de poder compartir herramientas, o sea.
+ No tenía mucho dinero y, número dos, aprendes mucho viendo el código de
+ los demás.
+ O viendo sus ejemplos o cómo hizo tal cosa.
+ Entonces...
+ Pues yo digo que eso fue lo, más que nada, pues del hecho que te puedan
+ compartir algo y lo puedas accesar sin problemas.
+\end_layout
+
+\begin_layout Standard
+Él participa en la comunidad de Perl, de Debian y de Linux en general.
+ En realidad, cuando alguien utiliza software libre, se considera que está
+ dentro de la comunidad.
+ Como Carlos me aclaró cuando le pregunté qué es la comunidad de Perl: "Los
+ usuarios, los desarrolladores, la gente que trabaja con Perl".
+ Aunque no hay una autoridad central en ellas, normalmente existe un coordinador
+ del proyecto.
+ Carlos ha realizado aportaciones a varias comunidades, principalmente parches
+ que resuelven errores.
+\end_layout
+
+\begin_layout Standard
+La mayor parte de los proyectos de software libre tienen una lista de correo
+ en donde se avisa sobre los últimos errores detectados por la comunidad.
+ Al ser públicos, cualquier miembro de la comunidad puede proponerse solucionarl
+os.
+ Cuando alguien desarrolla una solución, la publica con una descripción
+ y un archivo adjunto que contiene el código necesario, conocido como "parche".
+ Carlos ha aportado varios de estos parches.
+ "Ese...
+ ese es mi tipo de contribución pero nunca he hecho así como un software
+ sólido", es decir, Carlos nunca ha iniciado un software desde el principio.
+ "Siempre me he manejado dentro de los que ayudan adentro de un software
+ sólido".
+\end_layout
+
+\begin_layout Standard
+Por supuesto que todo este tipo de trabajo implica una fuerte cultura 
+\emph on
+do-it-yourself
+\emph default
+.
+ Intenta resolver los problemas tú mismo, si no puedes, recurre a la comunidad.
+ Miguel con sus talleres sobre tecnología intenta transmitir eso a sus estudiant
+es: "Tonces como que más que todo estamos apoyando mucho a la filosofía
+ de 'hazlo tú mismo'"; Carlos con sus aportes a proyectos de software libre
+ y los hackatones: "Es bien DIY el pedo"; Andy con la creación de Noisebridge:
+ "
+\emph on
+Do-cracy it's what they call it at Noisebridge
+\emph default
+".
+\end_layout
+
+\begin_layout Standard
+Otra característica que mencionan es la capacidad de poder expresar ideas
+ y críticas libremente dentro de la comunidad.
+ Como afirma Miguel cuando creó NorteLab: "Todo salió por que queríamos
+ un espacio donde todo mundo se confrontara, donde todo mundo chocara, donde
+ todo mundo platicara, ¿no?".
+ También Carlos coincide, cuando comenta la manera de trabajar en Noisebridge,
+ y cómo le gusta que las ideas se puedan criticar abiertamente: 
+\end_layout
+
+\begin_layout Quote
+Es por eso que Brasil es una chingonería, pues, porque en Brasil se tiran
+ mierda entre ellos, o sea.
+ Entre los brasileños es de: "Este pedazo de software es basura".
+ Y van con el gobierno y les dicen y los del gobierno: "Ok, repáralo" y
+ ahí está.
+ Por eso, desde que entró Lulla a Brasil se cambió toda la infraestructura,
+ pues, porque él mismo dijo: "Yo no puedo hacer nada con la computadora,
+ pues y eso que yo no sé nada de computadoras".
+ [...] Yo espero que a mí también me critiquen, yo sería feliz de que [mi jefe]
+ me dijera algo de mi código.
+ O sea, y eso es lo que me gustó de Noisebridge
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Noisebridge
+\end_layout
+
+\end_inset
+
+, en Noisebridge, el primer día que llegue: "Ah, ¡cómo eres güey! Pudiste
+ haberlo hecho de esta forma".
+ Y sí es cierto, y aprendí, o sea, aprendí de eso.
+ No me engreí y: "Ah, te voy a partir la madre".
+ O sea, no.
+\end_layout
+
+\begin_layout Standard
+Los tres 
+\emph on
+hackers
+\emph default
+ prefieren trabajar en comunidad.
+ Las ventajas del trabajo comunitario son obvias para ellos: Compartir el
+ conocimiento, solución rápida a problemas que afectan a todos, desarrollo
+ de los individuos que forman parte de ella y la posibilidad de que
+\end_layout
+
+\begin_layout Subsection
+¿Cómo programar el mundo mejor?
+\end_layout
+
+\begin_layout Standard
+Estos 
+\emph on
+hackers
+\emph default
+ se encuentran con un problema.
+ Desean un mundo mejor, lo tienen bien definido en su cabeza, pero la realidad
+ todavía no es compatible con esa utopía.
+ Windows sigue siendo el sistema operativo más utilizado, el software comercial
+ genera billones de dólares anualmente, la mayor parte de las estructuras
+ sociales poseen autoridad centralizada y las computadoras cada vez más
+ son utilizadas como instrumentos de control, no de liberación.
+ ¿Cómo lidian con esta discrepancia? ¿Cómo negocian su vida diaria? Este
+ es el punto donde los 
+\emph on
+hackers
+\emph default
+ difieren bastante.
+\end_layout
+
+\begin_layout Standard
+Miguel Eduardo acepta que es imposible, por el momento, ser diseñador gráfico
+ y no depender de ningún software privado:
+\end_layout
+
+\begin_layout Quote
+Si eres extremadamente de software libre, como Richard Stallman, que dice
+ que Ubuntu es privado y que él hizo su propio sistema operativo que no
+ es privado y que no carga paquetes privados y si te pones extremadamente
+ izquierdista, [...] todos los diseñadores...
+ Muy pelada, no imprimirían carteles.
+ Así de sencillo.
+\end_layout
+
+\begin_layout Standard
+Por otra parte, Carlos Iván se queja de la gente que hace contratos con
+ Microsoft.
+ Cuando le pregunto por qué cree que lo hagan, responde:
+\end_layout
+
+\begin_layout Quote
+La gente que hace servidores con Windows
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Microsoft Windows
+\end_layout
+
+\end_inset
+
+ es: Uno, porque está bien pendeja, simplemente le gusta esa decisión, o
+ porque tiene un contrato con Microsoft
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Microsoft
+\end_layout
+
+\end_inset
+
+.
+ O porque es una pinchi generación anciana, pues.
+ [...] Que no tiene nada de malo, cada quién puede elegir con quién trabajar
+ y todo eso, pues, pero yo digo que es muy pendeja en el sentido de que
+ todos hemos sufrido a base de Windows
+\begin_inset Index idx
+status collapsed
+
+\begin_layout Plain Layout
+Windows
+\end_layout
+
+\end_inset
+
+, pues.
+\end_layout
+
+\begin_layout Standard
+Concede el derecho que tienen esas otras personas de elegir software de
+ Microsoft, pero le parece una pésima decisión, por más que le moleste y
+ le parezca irracional.
+ Cuando Andy me comentaba que en Noisebridge buscaban tener el menor número
+ de reglas posible, le pregunté si ese modelo se podría transportar a otras
+ áreas de la sociedad.
+\end_layout
+
+\begin_layout Quote
+Posiblemente.
+ Noisebridge ha construido un ejemplo positivo y un ejemplo negativo en
+ ese espacio.
+ [...] Estábamos intentando al principio establecer qué reglas tener, qué permitire
+mos que la gente haga.
+ Siempre hubo un argumento muy fuerte a favor de quitarnos del camino, dejar
+ que la gente haga lo que quiera y dejar que te sorprendan.
+ Y eso fue educativo para mi, verlo suceder y verlo funcionar.
+ Pero al mismo tiempo ves que gente hace cosas totalmente inútiles y que
+ no coinciden con mis propias metas, por ejemplo.
+\end_layout
+
+\begin_layout Standard
+Él cree que el modelo comunitario permite que las personas se desarrollen,
+ aunque no evita que otras hagan cosas inútiles, o simplemente estorben
+ a los demás.
+ El mundo, simple y sencillamente, no está lleno de 
+\emph on
+hackers
+\emph default
+.
+ Las actitudes que van en contra de sus valores abundan, y en ocasiones
+ no permiten que la comunidad se desarolle.
+\end_layout
+
+\begin_layout Standard
+¿Cuál es su solución? ¿Cómo transformar este mundo, entonces? Aunque los
+ tres 
+\emph on
+hackers
+\emph default
+ conciden en su percepción de los objetos, la libertad y la comunidad, cada
+ uno toma una postura diferente para defender sus ideales.
+\end_layout
+
+\begin_layout Standard
+Andy tiene una actitud bastante pasiva.
+ Una anécdota de cuando iba en la preparatoria me parece representativa
+ de su actitud en general:
+\end_layout
+
+\begin_layout Quote
+Había un niño en mi salón de la preparatoria que era gay.
+ En retrospectiva, era muy obvio.
+ Y vi que lo molestaron varias veces.
+ Éramos buenos amigos en ese momento.
+ No participé en el acoso pero tampoco ayudé mucho más, sólo reprobaba la
+ actitud de la gente que hacía el acoso.
+\end_layout
+
+\begin_layout Standard
+Esta conducta de no oponerse activamente pero no participar es similar a
+ la que toma con respecto a sus ideales.
+ Cuando se inició la discusión en Noisebridge sobre cerrar las puertas debido
+ a las personas que entraban y no aportaban a la comunidad, Andy no estaba
+ de acuerdo.
+ Según él, las puertas debían estar abiertas para recibir a todo mundo.
+ Pero en las discusiones al respecto su actitud era similar: "Todo lo que
+ puedo hacer es decir: Yo no haría eso, no creo que debamos hacer eso, pero
+ no puedo impedir que la gente se porte como idiota".
+\end_layout
+
+\begin_layout Standard
+De manera similar, Andy busca influenciar el mundo que lo rodea de acuerdo
+ a sus valores.
+ Pero esto no implica una protesta activa ni perturbar el orden, más bien
+ expresar su desaprobación o apoyo a ciertas ideas.
+ Por supuesto, participar en medida de lo posible, pero no tanto en contra
+ de ideas negativas, si no a favor de ideas positivas (comunidad, libertad,
+ justicia, etc.).
+\end_layout
+
+\begin_layout Quote
+Una de las compañías para las que trabajé...
+ Era una compañía de hardware.
+ Hacen chips que se incrustan en los productos de otra gente, y tenían un
+ problema con sus drivers de Linux, los cuales eran simplemente terribles
+ y con una licencia muy mala.
+ Durante el tiempo que estuve ahí dije: "¡Hey! ¡Deberíamos mejorar esto!"
+ No ayudé con ningún otro problema que tuvieron ni trabajé en ello, pero
+ varios años después finalmente mejoraron...
+ Creo que al principio de 2011 liberaron su código fuente y tuvieron una
+ gran conferencia por el hecho de que sus drivers eran...
+ Que estaban intentando trabajar mejor con la comunidad Linux, hacer mejores
+ drivers 
+\emph on
+open source
+\emph default
+ específicamente para los productos que tenían problemas.
+ De cierta forma mejoraron y tuve algo que ver en esa mejoría, pero no...
+ No me tomaría ningún crédito por ello.
+\begin_inset Note Comment
+status collapsed
+
+\begin_layout Plain Layout
+One of the companies I worked with had a...
+ It was a hardware company.
+ They make chips that go onto other people's products, and they had an ongoing
+ problem with their Linux drivers just being terrible and having very bad
+ licensing terms.
+ And during the time that I was there I said: "Hey! We should improve this!"
+ I didn't help with any other problems that they were having or do any other
+ work for it but several years later they have finally improved...
+ I think in the beggining of 2011 they had a big press release and source
+ code release for the fact that their drivers were...
+ That they were trying to work better with Linux community and do better
+ open source drivers specifically for the products that were having problems.
+ So, in some sense that got better and I played some part in making that
+ better, but I don't...
+ I wouln't take any credit for it.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Hay una diferencia en su participación en Noisebridge y Noisetor, la cual
+ es mucho más activa.
+ En esos casos, siendo iniciador de los proyectos, tuvo más oportunidad
+ de
+\end_layout
+
+\begin_layout Standard
+Carlos Iván me comentó que desde que llegó a San Francisco, ha participado
+ en varios eventos llamados hackatones.
+ El formato varía de acuerdo al tipo de evento, pero básicamente son reuniones
+ en donde diferentes equipos se ponen a trabajar en proyectos.
+ Normalmente tienen un límite de tiempo,
+\end_layout
+
+\begin_layout Standard
+Miguel:
+\end_layout
+
+\begin_layout Quote
+Pues es que no es campaña, es más que todo una difusión, vaya, de...
+ De decir a la gente que tiene...
+ Que hay otras propuestas en la red, de compartir, ¿no? Por que a fin de
+ cuentas no somos un partido, nada que ver con eso.
+ No estamos casados con un partido, no.
+ Al contrario, lo que nosotros hacemos es darles herramientas a los artistas,
+ dar talleres de Inkscape, dar talleres de Ubuntus a la gente donde sepa
+ pues ver comparativas de qué pueden bajar, qué pueden ofrecerles en la
+ red, tantos programas.
+\end_layout
+
+\begin_layout Standard
+No reinventar la rueda:
+\end_layout
+
+\begin_layout Standard
+Carlos:
+\end_layout
+
+\begin_layout Standard
+Hacer bien tu trabajo.
+\end_layout
+
+\begin_layout Subsection
+Resumen
+\end_layout
+
+\begin_layout Standard
+He intentado 
 \end_layout
 
 \begin_layout Standard
