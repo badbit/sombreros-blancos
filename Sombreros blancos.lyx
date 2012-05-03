@@ -399,7 +399,11 @@ a y pueden entrar ilegalmente a los sistemas de la CIA y la NASA.
 \begin_layout Standard
 No se puede negar que estos reportajes tienen un núcleo de verdad.
  Existen las intrusiones no autorizadas, hay delitos informáticos y hay
- jóvenes que se dedican a la piratería de software y se autonombran "hackers".
+ jóvenes que se dedican a la piratería de software y se autonombran "
+\emph on
+hackers
+\emph default
+".
  Todo eso existe, pero siempre ha habido una línea marcada entre los 
 \emph on
 hackers
@@ -10337,12 +10341,27 @@ netbook
 
 \begin_layout Quote
 Si ya soy rápido en el teclado, ¿para qué me voy a mover del teclado para
- usar el mouse? O sea, obviamente si uso el mouse, porque ya nos manejamos
- en el mundo de Web 2.0, y las interfases gráficas y lo que quieras.
+ usar el 
+\emph on
+mouse
+\emph default
+? O sea, obviamente si uso el 
+\emph on
+mouse
+\emph default
+, porque ya nos manejamos en el mundo de Web 2.0, y las interfases gráficas
+ y lo que quieras.
  Pero si es de código, comunicarme, usar la red y todo eso, rara vez uso
- el mouse.
- El mouse lo uso para ocasiones bien específicas, que básicamente es la
- red.
+ el 
+\emph on
+mouse
+\emph default
+.
+ El 
+\emph on
+mouse
+\emph default
+ lo uso para ocasiones bien específicas, que básicamente es la red.
 \end_layout
 
 \begin_layout Standard
@@ -13623,8 +13642,11 @@ GNU/Linux
 \begin_layout Standard
 Además, en Linux hay muchas posibilidades para elegir una interfaz adecuada
  a las necesidades del usuario.
- Aunque Carlos casi no utiliza el mouse, posee una interfaz gráfica en su
- computadora.
+ Aunque Carlos casi no utiliza el 
+\emph on
+mouse
+\emph default
+, posee una interfaz gráfica en su computadora.
  Las primeras veces que lo vi trabajar me di cuenta de que no era ninguno
  de los que yo conocía.
  Típicamente una computadora de escritorio con Linux tendrá instalado algún
@@ -13731,8 +13753,11 @@ Gnome
 \end_inset
 
 , un ambiente gráfico muy popular y le era muy útil.
- Pero aún así, requería demasiado el uso del mouse y buscó un reemplazo:
- 
+ Pero aún así, requería demasiado el uso del 
+\emph on
+mouse
+\emph default
+ y buscó un reemplazo: 
 \begin_inset Quotes eld
 \end_inset
 
@@ -20881,14 +20906,8 @@ pick-up
  Aún así, los utilizaron para almacenar componentes y libros.
  Organizaron el hardware y aceptaron donaciones.
  Andy comenta que la gran lección que aprendió en esos primeros meses fue
- el permitir que las cosas sucedan sin mucha intervención.
-\end_layout
-
-\begin_layout Quote
-Si le das espacio a la gente para hacer cosas...
- No sólo espacio físico, también espacio mental, y una ausencia de reglas,
- algunas personas te sorprenderán positivamente.
- Harán cosas que nunca hubieras pensado y que hacen del mundo un mejor lugar.
+ el permitir que las cosas sucedan sin mucha intervención permite que surjan
+ buenas ideas.
 \end_layout
 
 \begin_layout Standard
@@ -22057,9 +22076,9 @@ Un mundo mejor
 \end_layout
 
 \begin_layout Standard
-¿Qué sucedió con el recetario de mi mamá? En cuanto le comenté la idea de
- los programadores de mxlOpenSource, el convertir su recetario en software
- libre, se entusiasmó y aprobó la idea.
+¿Qué sucedió con el recetario de mi mamá? En cuanto le comenté que los programad
+ores de mxlOpenSource, el convertir su recetario en software libre, se entusiasm
+ó y aprobó la idea.
  Ellos pusieron manos a la obra, buscando en Internet otros programas similares,
  para encontrar alguno que se ajustara exactamente a sus necesidades.
  Pronto encontraron un software llamado "El Puchero" que contenía casi todas
@@ -22089,8 +22108,12 @@ hackers
 \end_layout
 
 \begin_layout Standard
-En diferentes momentos de entrevistas y encuentros los hackers se apasionaban
- y lanzaban largos discursos sobre cómo deberían ser las cosas.
+En diferentes momentos de entrevistas y encuentros los 
+\emph on
+hackers
+\emph default
+ se apasionaban y lanzaban largos discursos sobre cómo deberían ser las
+ cosas.
  Muchas veces fue al final de las entrevistas, cuando ya les estaba dando
  las gracias por haberme prestado algo de su tiempo.
  En una ocasión, me encontraba ya en la madrugada con Miguel Venegas dentro
@@ -22120,8 +22143,8 @@ hackers
  entrevistados y los guía en su trabajo diario.
  Su trabajo, sus actividades, la fuerza que los motiva a emprender muchos
  de sus proyectos es la esperanza de un mundo mejor.
- Intentaré, en base a lo que me dijeron y lo que pude observar, describir
- ese mundo.
+ Intentaré, en base a lo que me dijeron y lo que observé, describir ese
+ mundo.
 \end_layout
 
 \begin_layout Subsection
@@ -22129,7 +22152,7 @@ Un mundo lleno de objetos interesantes
 \end_layout
 
 \begin_layout Standard
-De niños los tres 
+Cuando eran niños, los tres 
 \emph on
 hackers
 \emph default
@@ -22138,9 +22161,10 @@ hackers
  La curiosidad los atrajo y su primeras exploraciones fueron juguetonas.
  Aprendieron sobre la máquina por diversión, se atrevieron abrirla, cuestionarla
 , programarla.
- Miguel desarmaba sus computadoras para saber qué había adentro, como muchos
- niños desarman sus carritos de control remoto.
- Carlos inició con los emuladores y videojuegos de consola.
+ Miguel desarmaba sus computadoras para ver dentro, como muchos niños desarman
+ sus carritos de control remoto.
+ Las primeras experiencias de Carlos iniciaron con los emuladores y videojuegos
+ de consola.
  Andy programó algunas bromas y juegos para la Apple IIe de su papá.
  Con los años esta aproximación se convertiría en un interés mucho más serio,
  hasta la fecha continúan con una relación similar con estos artefactos.
@@ -22193,95 +22217,332 @@ Si, todo se relacionó, si, todo encajó muy bien.
 Lo mismo sucede con Carlos, quien aprendió muchas tecnologías por curiosidad
  y lo pudo utilizar para conseguir su primer empleo en un cibercafé y posteriorm
 ente en los diferentes lugares donde se ha desempeñado.
+ De la misma forma, Miguel intenta siempre dar un giro tecnológico a sus
+ actividades dentro del Centro Estatal de las Artes, incluyendo los talleres
+ artísticos.
 \end_layout
 
 \begin_layout Standard
-A lo que voy con esto es que su pasión por los objetos es la prioridad.
- Si han conseguido empleos gracias a ello ha sido sólo una feliz coincidencia.
+A lo que voy con esto es que su pasión por los objetos central.
+ Como dijo Miguel: 
+\begin_inset Quotes eld
+\end_inset
+
+Las computadoras siempre han sido como tipo mi novia
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Si han conseguido empleos gracias a ello, ha sido sólo una feliz coincidencia.
+ Ellos trabajarían con tecnología con empleo o sin él.
 \end_layout
 
 \begin_layout Standard
-Pero no sólo son simples herramientas, estos objetos son interesantes por
- sí mismos.
+Su relación con el objeto es tan estrecha, que buscan maneras de controlarlo
+ mejor.
+ Las computadoras y los dispositivos se controlan a través del cuerpo.
+ Normalmente a través de las manos, los dedos.
+ Estos 
+\emph on
+hackers
+\emph default
+ han desarrollado habilidades combinadas con herramientas para controlar
+ mejor la tecnología.
+ 
 \end_layout
 
 \begin_layout Standard
-La herramienta adecuada para cada trabajo
+Carlos memorizó los comandos de Vim, y se acostumbró al teclado Happy Hacking
+ que posee configuraciones muy específicas que se adaptan a su gusto.
+ Cuando nos dio el taller de Vim en la reunión de mxlOpenSource, los asistentes
+ vimos que tenía un mayor dominio sobre la máquina que el resto de nosotros,
+ al menos en cuanto a la edición de texto, que es parte de su trabajo como
+ programador.
 \end_layout
 
 \begin_layout Standard
-Miguel:
+Miguel modificó un juguete que lee algunas ondas cerebrales para ayudarse
+ en su creación artística.
+ De esta forma, no tendría que depender del 
+\emph on
+mouse
+\emph default
+ para generar arte visual con su computadora.
+ Podría conectarse los sensores del juguete y modificar la salida en pantalla
+ mediante las ondas de su cerebro.
+ Él siente que pronto el mouse y el teclado quedarán atrás para dar paso
+ a un control mental, o 
+\begin_inset Quotes eld
+\end_inset
+
+nuevos diálogos
+\begin_inset Quotes erd
+\end_inset
+
+ como él los llama: 
+\begin_inset Quotes eld
+\end_inset
+
+Ya eso ya no, güey.
+ Ni plumas, ya ahora la onda va a ser esa
+\begin_inset Quotes erd
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Standard
+Andy modificó el ambiente gráfico de su laptop para ajustarse exactamente
+ a sus necesidades.
+ Se trata del manejador de ventanas fvwm, pero altamente modificado para
+ ajustarse específicamente a sus dedos.
+ Ha utilizado la misma configuración desde la universidad y se encuentra
+ sumamente familiarizado con ella, aunque nadie más puede entenderla.
+\end_layout
+
+\begin_layout Quote
+Hay muchos lugares en donde, si haces algo perfectamente razonable, la ventana...
+ hará algo completamente absurdo.
+ Yo sé cómo arreglarlo, porque he usado la misma configuración durante 20
+ malditos años.
+ 18 años, pero no es una muy buena configuración, tiene algunas características
+ muy específicas que encuentro realmente valiosas, que conozco extremadamente
+ bien, porque las he usado del mismo modo durante 20...
+ 16 años o algo así.
+ Así que sigo usándolas.
+ [...] Son importantes para mis dedos, ni siquiera son importantes para mí,
+ son cosas que se basan en acciones.
+ Así que si hago cierto...
+ Hago cierto gesto y sé...
+ Mis dedos saben exactamente qué sucederá.
+\begin_inset Note Comment
+status collapsed
+
+\begin_layout Plain Layout
+There's all kinds of places where if you do something that's perfectly reasonabl
+e, the window...
+ it'll do something completely absurd.
+ I know how to fix it, because I've been using the same configuration for
+ 20 fricking years now.
+ 18 years, but it's not a good set up, but it has a bunch of very specific
+ features that I find very valuable, that I know extremelly well, because
+ I have been using them for the same way for 20...
+ 16 years or something like that.
+ So I keep using it.
+ [...] that are important to my fingers, they're not even that important to
+ me, are things that are action based.
+ So I do a certain...
+ I make a certain gesture and I know...
+ My fingers know exactly what's going to happen.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Para Andy este tipo de interacción sumamente estrecha con los artefactos
+ tecnológicos no es nada extraña en el mundo de los 
+\emph on
+hackers
+\emph default
+.
+\end_layout
+
+\begin_layout Quote
+No creo que sea tan inusual.
+ Mi configuración específica es bastante inusual, es casi totalmente única.
+ Pero eso es muy común para las personas que usan mucho las computadoras,
+ así que muchos 
+\emph on
+hackers
+\emph default
+ tienen un entendimiento muy profundo...
+ o entendimiento incrustado muy dentro de ellos sobre lo que sucede, o cómo
+ funcionarán sus interacciones con las cosas.
+\begin_inset Note Comment
+status collapsed
+
+\begin_layout Plain Layout
+I don't think that's that unusual.
+ My specific configuration it's pretty unusual, it's almost entirely unique.
+ But it's pretty common for people who really use computers a lot, so a
+ lot of hackers have a very deep understanding...
+ or understanding's embedded very deep in them of what happens, or how their
+ interactions with things are going to work.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Hay una característica más que he encontrado en la relación de los 
+\emph on
+hackers
+\emph default
+ con los objetos.
+ Siempre están buscando la herramienta más adecuada para cada trabajo.
+ Aquella que se ajuste perfectamente y esté diseñada específicamente para
+ la tarea a realizar.
+ Cuando encuentran una que les resuelve sus problemas de manera óptima,
+ se dedican a estudiarla y convertirse en expertos en ella.
+\end_layout
+
+\begin_layout Standard
+Por ejemplo, cuando entrevisté a Miguel Eduardo por segunda vez, me preguntó
+ si conocía alguna herramienta para hacer libros.
+ En ese momento se encontraba involucrado en la maquetación del libro 
+\emph on
+Practical Arduino
+\emph default
+.
+ Los libros sobre Arduino contienen código fuente, y normalmente los libros
+ resaltan la sintaxis del lenguaje de programación mediante colores, para
+ facilitar la lectura.
+ Miguel buscaba la herramienta adecuada para ese trabajo.
+ 
+\end_layout
+
+\begin_layout Quote
 Entonces creo que lo que me paró mucho fue encontrar una aplicación que
- pudiera hacer los highlights específicos.
+ pudiera hacer los 
+\emph on
+highlights
+\emph default
+ específicos.
  Por que empecé a redactar un tutorial, te digo que por medio de Adobe Ilustrado
 r.
- Pero empecé a producir, y ya iba en la pagina 20, un libro al rededor de
- 100 hojas, entonces yo de repente empecé a cuestionarme: Oye, ¿qué va a
- pasar si a mí ahorita me atropellan y les doy el PDF a ellos? No puedes
- mantener el mismo estándar, pues.
+ Pero empecé a producir, y ya iba en la pagina 20, un libro alrededor de
+ 100 hojas, entonces yo de repente empecé a cuestionarme: 
+\begin_inset Quotes eld
+\end_inset
+
+Oye, ¿qué va a pasar si a mí ahorita me atropellan y les doy el PDF a ellos?
+\begin_inset Quotes erd
+\end_inset
+
+ No puedes mantener el mismo estándar, pues.
+ [...] Suponiendo, el Adobe Ilustrador no lo puedes instalar en Linux, tienes
+ que tener Wine, ¿no?
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Wine es un programa que permite instalar paquetería de Windows en sistemas
+ opearivos Linux.
 \end_layout
 
-\begin_layout Standard
-E: O sea, ¿cómo? ¿Licencia cómo?
-\end_layout
+\end_inset
 
-\begin_layout Standard
-I: Que fuera prohibido, que tuviera prohibición, ¿no? Suponiendo, el Adobe
- Ilustrador no lo puedes instalar en Linux, tienes que tener Wine, ¿no?
  Y además es privativo.
- Entonces era ahí como que, pum, nos detenía, ¿no?
-\end_layout
-
-\begin_layout Standard
-[...]
-\end_layout
-
-\begin_layout Standard
-Pero decíamos, es que esa madre no es para eso, pues.
+ Entonces era ahí como que, pum, nos detenía, ¿no? [...] Pero decíamos, es
+ que esa madre no es para eso, pues.
  Entonces gracias a eso yo descubrí que el Adobe Ilustrador, el Corel no
  te sirven para hacer esquemas de libros de programación.
 \end_layout
 
 \begin_layout Standard
-Carlos:
+Yo le recomendé algunas herramientas, pero no supe si realmente encontró
+ alguna perfecta.
+ Intentó con LaTeX, DocBook y otras más.
+ Buscaba algo que se adecuara exactamente a sus necesidades y además que
+ fuera libre.
+ Herramientas disponibles hay muchas, y todas podrían resolver el problema,
+ pero Miguel las prueba todas hasta encontrar la mejor.
+\end_layout
+
+\begin_layout Standard
+Carlos me comentaba que cuando llegó a San Francisco le llovieron ofertas
+ para trabajar en México, de manera remota.
+ Consideró una de ellas, en parte por que eligen la herramienta adecuada
+ para cada trabajo.
 \end_layout
 
 \begin_layout Quote
-Porque este güey son el tipo de empresa que me gusta, no es un startup y
- no son tan modernos, pero para cada problema o cada trabajo que consiguen,
+Porque este güey son el tipo de empresa que me gusta, no es un 
+\emph on
+startup
+\emph default
+ y no son tan modernos, pero para cada problema o cada trabajo que consiguen,
  utilizan una aplicación diferente, pues.
- En el sentido de que si es algo de ofimática, utilizan mono.
- [..] Que es, o sea, el .NET.
+ En el sentido de que si es algo de ofimática, utilizan Mono.
+ [...] Que es, o sea, el .NET.
  Que es como el...
  O sea, el Visual Basic ya no existe, pero existe el .NET.
  [...] Tonces, si ocupan al web, así, usan PHP y Codeigniter.
 \end_layout
 
 \begin_layout Standard
-Carlos:
+Andy también reveló esta actitud a través de varias anécdotas.
+ Especialmente a través de su preferencia por el sistema operativo BSD.
 \end_layout
 
 \begin_layout Quote
-Tonces, tú ya tienes...
- Las recetas son objetos, pues.
- Entonces tú ya tienes cómo crear una forma, pues.
- No tienes que escribir todo el código para validar una forma, no tienes
- que escribir todo el código para accesar a una base de datos, no tienes
- que escribir nada de eso, pues.
- Ya está hecho todo eso.
- Y tú nomás metes un poquito de configuración y ya, ya puedes empezar a
- trabajar realmente en el problema, no en las salidas o cosas así.
+Y durante mucho tiempo, durante dos o tres años yo tenía...
+ Ejecutaba BSD en la mayor parte de mis sistemas y de hecho lo expresaba
+ públicamente.
+ Tengo amigos de esa época que todavía se sacan de onda con la idea de que
+ ahora sólo uso Linux, no uso BSD para nada.
+ Me decían: 
+\begin_inset Quotes eld
+\end_inset
+
+Tenías una calcomanía de BSD en la defensa de tu carro, ¡no lo entiendo!
+ Te expresabas enérgicamente al respecto en aquel entonces
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Yo respondía: 
+\begin_inset Quotes eld
+\end_inset
+
+Sí, la cosas cambian
+\begin_inset Quotes erd
+\end_inset
+
+.
+\begin_inset Note Comment
+status collapsed
+
+\begin_layout Plain Layout
+And for the longest time, for two or three years I had a...
+ I had BSD running on most of my systems and was very vocal about this actually.
+ I had some friends from that era that are just still weirded out by the
+ idea that I'm a pure Linux person now, I don't do any BSD stuff at all.
+ It was just like: "You had a BSD bumper sticker on your car, I don't understand
+! You were really vocal back then." Like: "Yeah, things change."
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-Estos hackers tienen un interés intrínseco por los artefactos tecnológicos.
- Favoreceran aquellos que les permitan explorar, modificar y aprender mejor.
+Este cambio se dio cuando Andy descubrió que BSD ya no era la herramienta
+ adecuada para su trabajo, y Linux podía resolver sus problemas adecuadamente.
+ Se discutirá sobre este cambio un poco más adelante.
+\end_layout
+
+\begin_layout Standard
+Como puede verse, estos 
+\emph on
+hackers
+\emph default
+ tienen un interés intrínseco por los artefactos tecnológicos.
+ Favorecerán aquellos que les permitan explorar, modificar y aprender mejor.
  Su conocimiento y experiencia con su uso les proporciona experiencia que
  les ayuda a conseguir empleo, ganarse la vida y trabajar en sus propios
  fines.
+ Además, se relacionan estrechamente con ellos, cuando encuentran uno que
+ les funciona bien, deciden apegarse a él y aprender a interactuar con él
+ de una manera casi íntima.
+ Con el tiempo se convierte casi en una extensión de sí mismos, y esto les
+ permite conseguir sus propios fines a través del objeto.
 \end_layout
 
 \begin_layout Subsection
@@ -22750,7 +23011,37 @@ hackers
  prefieren trabajar en comunidad.
  Las ventajas del trabajo comunitario son obvias para ellos: Compartir el
  conocimiento, solución rápida a problemas que afectan a todos, desarrollo
- de los individuos que forman parte de ella y la posibilidad de que
+ personal de los individuos que forman parte de ella.
+ En palabras de Andy, sobre la fundación de Noisebridge:
+\end_layout
+
+\begin_layout Quote
+Si le das espacio a la gente para hacer cosas...
+ No sólo espacio físico, también espacio mental, y una ausencia de reglas,
+ algunas personas te sorprenderán positivamente.
+ Harán cosas que nunca hubieras pensado y que hacen del mundo un mejor lugar.
+\end_layout
+
+\begin_layout Standard
+Los tres saben que no todo mundo generará cosas increíbles al trabajar en
+ comunidad.
+ Siempre existen las personas más involucradas, los más activos y creativos.
+ Pero por la simple posibilidad de que ideas que mejorar al mundo surjan
+ y se desarrollen, por que ese potencial esté ahí, vale la pena trabajar
+ en comunidad.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Comment
+status collapsed
+
+\begin_layout Plain Layout
+Un mundo más justo
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsection
@@ -22779,7 +23070,7 @@ hackers
 
 \begin_layout Standard
 Miguel Eduardo acepta que es imposible, por el momento, ser diseñador gráfico
- y no depender de ningún software privado:
+ y no depender de ningún software comercial:
 \end_layout
 
 \begin_layout Quote
@@ -22859,7 +23150,7 @@ mos que la gente haga.
 \end_layout
 
 \begin_layout Standard
-Él cree que el modelo comunitario permite que las personas se desarrollen,
+Para Andy el modelo comunitario permite que las personas se desarrollen,
  aunque no evita que otras hagan cosas inútiles, o simplemente estorben
  a los demás.
  El mundo, simple y sencillamente, no está lleno de 
@@ -22868,7 +23159,8 @@ hackers
 \emph default
 .
  Las actitudes que van en contra de sus valores abundan, y en ocasiones
- no permiten que la comunidad se desarolle.
+ tienen choques con la realidad que los rodea.
+ 
 \end_layout
 
 \begin_layout Standard
@@ -22879,26 +23171,26 @@ hackers
 \emph default
  conciden en su percepción de los objetos, la libertad y la comunidad, cada
  uno toma una postura diferente para defender sus ideales.
-\end_layout
-
-\begin_layout Standard
-Andy tiene una actitud bastante pasiva.
- Una anécdota de cuando iba en la preparatoria me parece representativa
- de su actitud en general:
+ Andy, me contó una anécdota de cuando iba en la preparatoria me parece
+ representativa de su actitud en general:
 \end_layout
 
 \begin_layout Quote
-Había un niño en mi salón de la preparatoria que era gay.
+Había un niño en mi salón de la preparatoria que era 
+\emph on
+gay
+\emph default
+.
  En retrospectiva, era muy obvio.
  Y vi que lo molestaron varias veces.
  Éramos buenos amigos en ese momento.
  No participé en el acoso pero tampoco ayudé mucho más, sólo reprobaba la
- actitud de la gente que hacía el acoso.
+ actitud de la gente que lo acosaba.
 \end_layout
 
 \begin_layout Standard
-Esta conducta de no oponerse activamente pero no participar es similar a
- la que toma con respecto a sus ideales.
+Esta conducta de no oponerse activamente pero tampoco participar es similar
+ a la que toma con respecto a sus ideales.
  Cuando se inició la discusión en Noisebridge sobre cerrar las puertas debido
  a las personas que entraban y no aportaban a la comunidad, Andy no estaba
  de acuerdo.
@@ -22914,8 +23206,8 @@ De manera similar, Andy busca influenciar el mundo que lo rodea de acuerdo
  Pero esto no implica una protesta activa ni perturbar el orden, más bien
  expresar su desaprobación o apoyo a ciertas ideas.
  Por supuesto, participar en medida de lo posible, pero no tanto en contra
- de ideas negativas, si no a favor de ideas positivas (comunidad, libertad,
- justicia, etc.).
+ de ideas negativas, si no a favor de valores positivos (comunidad, libertad,
+ justicia).
 \end_layout
 
 \begin_layout Quote
@@ -22928,7 +23220,7 @@ Una de las compañías para las que trabajé...
  No ayudé con ningún otro problema que tuvieron ni trabajé en ello, pero
  varios años después finalmente mejoraron...
  Creo que al principio de 2011 liberaron su código fuente y tuvieron una
- gran conferencia por el hecho de que sus drivers eran...
+ gran conferencia de prensa por el hecho de que sus drivers eran...
  Que estaban intentando trabajar mejor con la comunidad Linux, hacer mejores
  drivers 
 \emph on
@@ -22967,19 +23259,243 @@ One of the companies I worked with had a...
 Hay una diferencia en su participación en Noisebridge y Noisetor, la cual
  es mucho más activa.
  En esos casos, siendo iniciador de los proyectos, tuvo más oportunidad
- de
+ de que su voz fuese escuchada, de tomar decisiones y ajustarlos mas fielmente
+ a sus valores.
+ Aunque intentó no ser impositivo y trabajar en comunidad, como de costumbre.
+ En una ocasión Andy me explicó claramente su postura acerca imponer ideas
+ sobre la tecnología.
+ Me lo comentó justo después de su anécdota de cuando abandonó BSD decepcionado.
+\end_layout
+
+\begin_layout Quote
+Incluso en esa época tenía mucho...
+ Tenía la misma idea acerca de...
+ O falta de interés en la evangelización.
+ No estoy interesado en decirle a la gente cómo usar sus computadoras.
+ Eso no es valioso para mi.
+ Si alguien coincide conmigo o tiene preguntas interesantes estoy feliz
+ de responderlas, pero los fanáticos me hacen realmente infeliz.
+ [...] La actitud de: 
+\begin_inset Quotes eld
+\end_inset
+
+Tienes que hacer esto
+\begin_inset Quotes erd
+\end_inset
+
+ sin comprender lo que intentas hacer y por qué tus concesiones pueden ser
+ diferentes a las de alguien más.
+ La habilidad de comprender que las nociones de valor de la gente son diferentes
+ y que las concesiones serán diferentes como consecuencia es uno de los
+ núcleos de mi...
+ de mi visión del mundo.
+ Así que los fanáticos, o sea, simplemente...
+ Es algo que odio.
+\begin_inset Note Comment
+status collapsed
+
+\begin_layout Plain Layout
+Even at that time I was very much...
+ I had the same idea about...
+ Or lack of interest in advocacy.
+ I'm not interested in telling people how to use their computers.
+ That is not valuable to me.
+ If someone agrees with me or has interesting questions I'm happy to answer
+ them, but fanboys just make me really unhappy.
+ [...] Of a: "You should do this" without understanding what you're actually
+ trying to do and why your tradeoffs might be a little different from someone
+ else's.
+ Like that ability to understand that people's value notions are different
+ and that tradeoffs will come differently as a result of that is really
+ cores of my...
+ how I view the world.
+ So, fanboys, I mean, it's just this...
+ I just really hate it.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-Carlos Iván me comentó que desde que llegó a San Francisco, ha participado
- en varios eventos llamados hackatones.
- El formato varía de acuerdo al tipo de evento, pero básicamente son reuniones
- en donde diferentes equipos se ponen a trabajar en proyectos.
- Normalmente tienen un límite de tiempo,
+El trabajará a favor de lo que cree, pero no desea ser un activista en el
+ sentido de Richard Stallman.
+ Cree que la postura de otros usuarios es respetable, sobre todo por que
+ tienen valores diferentes, y por tanto no se puede juzgar absolutamente
+ sobre el uso que otros den a la tecnología.
+ Sin embargo, mostrará su desaprobación cuando ocurra algo que él considera
+ injusto.
+ Como en el caso del reproductor de BluRay o cuando la comunidad intentó
+ cerrar la reja de Noisebridge para evitar el acceso a ciertas personas.
 \end_layout
 
 \begin_layout Standard
-Miguel:
+Carlos Iván me contó que desde que llegó a San Francisco, ha participado
+ en varios eventos llamados 
+\emph on
+hackatones
+\emph default
+.
+ El formato varía de acuerdo al tipo de evento, pero normalmente son reuniones
+ donde diferentes equipos se trabajan en proyectos de tecnología.
+ Se realizan en todas partes del mundo, pero en el área de la bahía hay
+ muchísimos.
+\end_layout
+
+\begin_layout Quote
+Hay veces que la gente se junta y es nomás como para que...
+ para que...
+ estás como escribiendo código o 
+\emph on
+hackeando
+\emph default
+ o hardware o lo que sea, pero hay más gente a tu alrededor, pues que es
+ de la misma como...
+ El mismo círculo, del mismo cotorreo de la misma práctica, pues.
+ Y hay veces que algunos 
+\emph on
+hackatones
+\emph default
+ si tienen como, este...
+ sus reglas o tienen sus metas, pues, para el siguiente día.
+ Y casi siempre son como 24 horas o inclusive 42 horas.
+ Sin dormir, o con dormir como seis horas y siguiendo escribiendo código.
+\end_layout
+
+\begin_layout Standard
+Le pregunté qué ganaban los asistentes a esos eventos, y su respuesta no
+ me sorprendió: Conocer gente, obtener conocimiento y desarrollar tus habilidade
+s.
+ Básicamente las bondades que los 
+\emph on
+hackers
+\emph default
+ ven en el trabajo comunitario.
+ Pero muchos 
+\emph on
+hackatones
+\emph default
+ también tienen otros fines.
+ También pueden ayudar a los proyectos de software libre, principalmente
+ a resolver los errores que los mismos desarolladores no tienen tiempo de
+ parchar.
+\end_layout
+
+\begin_layout Quote
+O puede ser un, deste...
+ Como muchos hackatones de San Francisco se está dando, que en vez de poner
+ dinero o donar dinero a los proyectos de software libre y de open source,
+ donas los 
+\emph on
+commits
+\emph default
+.
+ ¿Ya vez que todo ahorita está en el GitHub?
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+GitHub es una red social de programación.
+ Los usuarios suben su código fuente y se encuentra disponible para buscar
+ y copiar.
+ Un 
+\emph on
+commit
+\emph default
+ se refiere a un cambio hecho a un software determinado.
+ Cualquier usuario puede hacer cambios al software, pero los cambios sólo
+ pueden ser aplicados por los administradores del repositorio.
+ A la solicitud de hacer cambios para que el administrador los apruebe se
+ le llama 
+\emph on
+pull-request
+\emph default
+.
+\end_layout
+
+\end_inset
+
+ [...] Entonces muchos desarroladores no tienen el tiempo para arreglar cosas
+ y lo que hacen en los 
+\emph on
+hackatones
+\emph default
+ es que buscan los...
+ los 
+\emph on
+bugs
+\emph default
+ que gente pone y la gente se pone a desarrollar esos 
+\emph on
+bugs
+\emph default
+ y luego ya hace como un 
+\emph on
+pull-request
+\emph default
+, que es...
+ que le manda el parche, pues, al desarrollador original.
+\end_layout
+
+\begin_layout Standard
+Un ejemplo de este tipo de 
+\emph on
+hackatones
+\emph default
+ seria 
+\emph on
+Bits of kindness
+\emph default
+.
+ Pero no todos siguen el modelo comunitario.
+ Existen otros eventos prácticamente idénticos, pero que tienen fines comerciale
+s.
+\end_layout
+
+\begin_layout Quote
+Los 
+\emph on
+hackatones
+\emph default
+ que tienen premios o que están vestidos con dinero realmente se les llama
+ 
+\begin_inset Quotes eld
+\end_inset
+
+eventos
+\begin_inset Quotes erd
+\end_inset
+
+.
+ [...] Y hay gente que si les llama 
+\emph on
+hackatones
+\emph default
+, pero no se da tanto, pues.
+ Se ve mal.
+ [...] Es como...
+ Como buscatalentos.
+ Esos eventos se manejan de esa manera, pues.
+ El morrillo que 
+\emph on
+hackee
+\emph default
+ más o que haga más proyectos o más de ese tipo de cosas es al que le ofrecen
+ un trabajo.
+ ¿Sabes cómo?
+\end_layout
+
+\begin_layout Standard
+De los 
+\emph on
+hackers
+\emph default
+ entrevistados, Miguel Eduardo tiene la postura más combativa.
+ Con ELUG dio talleres para convencer a la UABC de migrar a tecnologías
+ libres, pegó carteles de protesta contra el gobierno y la última vez que
+ lo entrevisté se involucró en talleres y conferencias para convencer a
+ la gente de compartir la información.
 \end_layout
 
 \begin_layout Quote
@@ -22995,23 +23511,161 @@ Pues es que no es campaña, es más que todo una difusión, vaya, de...
 \end_layout
 
 \begin_layout Standard
+Ahora, los tres tienen posturas diferentes sobre cómo actuar respecto a
+ sus valores.
+ Pero los tres coinciden en dos puntos muy importantes: Son persuasivos.
+ No quieren forzar a nadie a convertirse a sus valores, no desean romper
+ la ley para conseguir sus propósitos.
+ Creen que pueden influir el mundo a través del poder de convencimiento.
+ Creen que la comunidad irá creciendo en cuanto la gente vea sus beneficios
+ y decida unirse.
+ Por supuesto que hay eventos que ayudan a esto, como los 
+\emph on
+installfests
+\emph default
+ o conferencias, pero siempre son persuasivos.
+\end_layout
+
+\begin_layout Standard
+El segundo punto es que para los tres el medio para llegar a ese mundo mejor
+ es a través del trabajo duro y bien hecho.
+ Estos 
+\emph on
+hackers
+\emph default
+ tienen una imagen muy negativa de la gente que no cree en su trabajo, de
+ aquellos que no lo hacen bien, de los que no se comprometen.
+ Recordemos que Carlos habla de los 
+\begin_inset Quotes eld
+\end_inset
+
+empleados Godínez
+\begin_inset Quotes erd
+\end_inset
+
+, aquellos que sólo se interesan por el dinero y reciben órdenes.
+ Miguel habla de la 
+\begin_inset Quotes eld
+\end_inset
+
+gente normal
+\begin_inset Quotes erd
+\end_inset
+
+, aquellos que no buscan alternativas y sólo les preocupa sacar adelante
+ su trabajo sin cuestionarlo.
+ Andy marca su diferencia entre la gente hábil e inhábil, y especifica todavía
+ más: ¿Eres buena o mala persona? Los tres, en algún momento y sin preguntárselo
+, encontraron etiquetas para aquellos que no comparten su actitud.
+\end_layout
+
+\begin_layout Standard
+Y esa es básicamente la diferencia entre estos 
+\emph on
+hackers
+\emph default
+ y los no-
+\emph on
+hackers
+\emph default
+: Actitud.
+ Al trabajar, al congregarse en LUGs, 
+\emph on
+installfests
+\emph default
+, 
+\emph on
+hackatones
+\emph default
+ y 
+\emph on
+hackerspaces
+\emph default
+, no sólo están jugando con la tecnología, no sólo se desarrollan profesionalmen
+te.
+ Trabajan para construir, poco a poco y con perseverancia, una utopía.
+ No se despiertan cada día deseando iniciar una revolución.
+ No luchan la guerrilla contra Microsoft, Apple o el capitalismo.
+ Saben que los cambios se hacen poco a poco y persuasivamente, no por la
+ fuerza.
+\end_layout
+
+\begin_layout Standard
+Cuando que uno de los 
+\emph on
+hackers
+\emph default
+ toma una decisión en su trabajo, cuando elige comprar una computadora,
+ cuando decide emprender un proyecto o no, se pregunta: ¿Qué tanto me acerca
+ esto al mundo en el que quiero vivir? ¿Ayudará esto a mejorar la sociedad?
+ ¿Contribuyo con esto a mis metas? Si la respuesta es negativa, buscarán
+ una alternativa que se acerque más.
+ Y su herramienta más poderosa, su habilidad más desarrollada, es la programació
+n.
+ Cuando programan, no sólo crean software, programan un mundo mejor.
+\end_layout
+
+\begin_layout Standard
+A grandes rasgos, esta es la ética de los tres 
+\emph on
+hackers
+\emph default
+ presentados en esta tesis.
+ A lo largo de dos años pude verla en acción, participé de ella a través
+ del software libre, intentando aportar a la comunidad como me fuera posible.
+ Espero que esta tesis pueda ser también un aporte a la comunidad 
+\emph on
+hacker
+\emph default
+, que me proporcionó herramientas como LaTeX y BibTeX que me permitieron
+ elaborar este documento.
+ GNU/Linux es mi sistema operativo principal, Firefox mi navegador, Pidgin
+ mi programa de mensajería.
+ Soy un miembro de la comunidad.
+\end_layout
+
+\begin_layout Standard
+No puedo decir que la ética de estos 
+\emph on
+hackers
+\emph default
+ no me afectó.
+ Cuando debo hablar de mi tema, me es difícil lidiar con los prejuicios
+ de la gente.
+ Piensan que hablo de delincuentes, ladrones, gente que husmea en las cuentas
+ de correo de los demás para ver qué se encuentra de provecho.
+ ¿Cómo explicar en cinco minutos todo el mundo que acabo de describir? Es
+ muy difícil.
+ Pero al menos pude hacerlo en poco más de doscientas páginas.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Comment
+status collapsed
+
+\begin_layout Plain Layout
 No reinventar la rueda:
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 Carlos:
 \end_layout
 
-\begin_layout Standard
-Hacer bien tu trabajo.
+\begin_layout Quote
+Tonces, tú ya tienes...
+ Las recetas son objetos, pues.
+ Entonces tú ya tienes cómo crear una forma, pues.
+ No tienes que escribir todo el código para validar una forma, no tienes
+ que escribir todo el código para accesar a una base de datos, no tienes
+ que escribir nada de eso, pues.
+ Ya está hecho todo eso.
+ Y tú nomás metes un poquito de configuración y ya, ya puedes empezar a
+ trabajar realmente en el problema, no en las salidas o cosas así.
 \end_layout
 
-\begin_layout Subsection
-Resumen
-\end_layout
+\end_inset
 
-\begin_layout Standard
-He intentado 
+
 \end_layout
 
 \begin_layout Standard
